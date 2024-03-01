@@ -1,0 +1,1 @@
+# support file to add images even if no images are there in uploads folder.
